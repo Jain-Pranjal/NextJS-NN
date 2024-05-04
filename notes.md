@@ -85,6 +85,7 @@ so jo bhi data hum body me likhege inside the fetch rewq so click karne par vo r
 
 dynamci routes ko apne program me use karne ke lie we can use the params obejc t jiske ander vo dynamci route hoga 
 
+server actions 
 
 
 
