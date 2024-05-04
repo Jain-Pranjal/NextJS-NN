@@ -68,6 +68,24 @@ eroror ke ane par page kuch aur dikhana hai to vo dikhega and agar page he found
 ki bhi thing sare page par lagana ahi to we will add in the root layout matlab ke i can make my own layout page for the diff pages as well uspa raapke root ka layout to ayega he + aapne jo alag se dala tha vo bhi ayega 
 
 
+now we will work with the api ke api matlna ke backend ka code we will be writing in it 
+aab hum backend ka code likehege jisme hum data ko get kar skte hai from the form 
+so matlab ab hum backend ko dekhege ke backend ka code kaise lijhte hai matlab how can we get the data from the input field inton the backend 
+
+api bana skfte ho means ke hum req bhejege and vo response me kuch dega from the server so yeah sara code aapke backend ka hai 
+humare pass route.js hai jo ke ek specail file hai jo ke sare req ko handle karne ka kaam karte hai ke agar jo bhi type ke req espar aye to vo espar jaye 
+
+api ka matlab yeha hai jek me khud ke api bana sku ke jab bhi aapka program koi bhi req bhej eto me usko response me kuch bhej sku to basically im using the server side code 
+pai ko call karne par vo aapko resposne me deta hai from the requestes request so vo hm api ke through handle kar skt ehai 
+yeah jo route.js hoti hai vo ek speacil file hoti hai jo ke yeah sae req ko tackle karti hai 
+
+
+so jo bhi data hum body me likhege inside the fetch rewq so click karne par vo req server ke pass jayege and vo resposne me humko json dega and badle me agar bosdy me kuch hoga to vo hum le skte hai in htr server whoch will be in the request 
+
+
+dynamci routes ko apne program me use karne ke lie we can use the params obejc t jiske ander vo dynamci route hoga 
+
+
 
 
 
