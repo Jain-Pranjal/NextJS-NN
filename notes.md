@@ -59,7 +59,10 @@ jab bhib req aa rhe hoti hai to hum cookoes ko bhiset and bhej skte hao jo ke aa
 jab bhi me /about page ko mangta hu to vo mere req hoti hai eska matlab yeah hai ke me us req ko get karkek usm emodifivaion kar skta huand usko redirect  ya fir rewrite kar skta hu using the nextResposne
 
 
+dynamic routing ke lie we have to use the [] and eske ander ka jo bhi hoga esko page par use karne ke lie we can use the {params}
+<!-- for the dynamic routes ke lie we have to isue the []  and koi bhi ho skta hai -->
 
+eroror ke ane par page kuch aur dikhana hai to vo dikhega and agar page he found nhi hua then aapka 404 vala page show hoga 
 
 
 
