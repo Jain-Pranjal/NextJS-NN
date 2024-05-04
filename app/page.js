@@ -5,7 +5,7 @@ import Image from "next/image";
 import Navbar from "@/components/Navbar";
 import Link from "next/link";
 export default function Home() {
-  throw new Error("This is a server side error")
+  // throw new Error("This is a server side error")
   return (
     <div>
       

@@ -15,9 +15,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
+        <h1>Root Layout</h1>
         {/* <Navbar /> */}
         {children}
         </body>
     </html>
   );
 }
+
+// the root layout willl be on the every page of the website so it is the global layout of the website

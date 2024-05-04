@@ -65,6 +65,7 @@ dynamic routing ke lie we have to use the [] and eske ander ka jo bhi hoga esko 
 eroror ke ane par page kuch aur dikhana hai to vo dikhega and agar page he found nhi hua then aapka 404 vala page show hoga 
 
 
+ki bhi thing sare page par lagana ahi to we will add in the root layout matlab ke i can make my own layout page for the diff pages as well uspa raapke root ka layout to ayega he + aapne jo alag se dala tha vo bhi ayega 
 
 
 
