@@ -86,11 +86,21 @@ so jo bhi data hum body me likhege inside the fetch rewq so click karne par vo r
 dynamci routes ko apne program me use karne ke lie we can use the params obejc t jiske ander vo dynamci route hoga 
 
 server actions 
+agar aapko data ko api ke through route kakre servr tak pauchana hai to post req marke vaha par request ke nade r data ko le skte hai api/add me rewq marne hai to fetch the data and body ke ander aapek form ka data ko pass kar dena hai 
+esse aapka data server par aa jayega and yaha se humne apna data ko body me dalke bhej dia hai 
+
+this thing can be done by using the server actions jaha par hum apan code in the client me he likh dete hai 
+form aapka intetactive chezz hai to uske lie humkko use client ko use karna pdta hai so we need to use the use client for that but kya hota sab ek he page par aa jaye to uske lie we can use the server actions jo ke aapke client par he use karke hum kar skte hai 
 
 
+by using the server action hum apne clien side rkhe he server ka code likh skte hai to aap php type ka kaam kar skte hai 
+humm apne server actions ko ek folder me rkhte hai proper tareke se taki vaha ek designated jagah mile uskok 
 
+<!-- next ke ander server  -->
+server actions ka matlab hota hai ke we are writng the server code int he same section where humen aapna client code bhi likh rkha ho to matlab yeah hoga ke hum apne form ke data ko api ke through routee akrva ke bhi bhej skte hai as well as we can aslo use the server actuins 
+by this we can submit the form data etither by api routes or by the server actions 
 
-
+server action me hum form me ek funcionde dete hai jo ke aapka aaction hota hai and jab bhi vo function chalega then 
 
 
 
